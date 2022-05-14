@@ -1,0 +1,8 @@
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_10_Numbers_Cycle\Task_10_Numbers_Cycle\bin\Debug\Task_10_Numbers_Cycle.exe.config
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_10_Numbers_Cycle\Task_10_Numbers_Cycle\bin\Debug\Task_10_Numbers_Cycle.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_10_Numbers_Cycle\Task_10_Numbers_Cycle\bin\Debug\Task_10_Numbers_Cycle.pdb
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_10_Numbers_Cycle\Task_10_Numbers_Cycle\obj\Debug\Task_10_Numbers_Cycle.csproj.AssemblyReference.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_10_Numbers_Cycle\Task_10_Numbers_Cycle\obj\Debug\Task_10_Numbers_Cycle.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_10_Numbers_Cycle\Task_10_Numbers_Cycle\obj\Debug\Task_10_Numbers_Cycle.csproj.CoreCompileInputs.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_10_Numbers_Cycle\Task_10_Numbers_Cycle\obj\Debug\Task_10_Numbers_Cycle.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_10_Numbers_Cycle\Task_10_Numbers_Cycle\obj\Debug\Task_10_Numbers_Cycle.pdb
