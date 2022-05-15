@@ -10,7 +10,11 @@ namespace Task_10_Numbers_Cycle
     {
         static void Main(string[] args)
         {
-            for (int number = 5; number < 100; number += 7)
+            int beginningSequence = 5;
+            int endingSequence = 100;
+            int growth = 7;
+
+            for (int number = beginningSequence; number < endingSequence; number += growth)
             {
                 Console.WriteLine(number);
             }
